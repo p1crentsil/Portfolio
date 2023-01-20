@@ -6,7 +6,7 @@
 
 ## Lists
 
-+ 1. Calculator App
++ Calculator App
 + To-Do List App with Authentication
 
 
